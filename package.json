@@ -1,0 +1,24 @@
+{
+  "name": "fashionstore",
+  "version": "1.0.0",
+  "description": "this is the fashion store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giftythomas/FashionStore.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "author": "GiftyThomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giftythomas/FashionStore/issues"
+  },
+  "homepage": "https://github.com/giftythomas/FashionStore#readme"
+}

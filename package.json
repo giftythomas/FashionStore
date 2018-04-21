@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/giftythomas/FashionStore/issues"
   },
-  "homepage": "https://github.com/giftythomas/FashionStore#readme"
+  "homepage": "https://github.com/giftythomas/FashionStore#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
